@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac1", "Prac1\Prac1.csproj", "{2B6390BD-2E45-4228-AB71-5B40A9D0D7D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prac2", "Prac2\Prac2.csproj", "{4C7931B1-8BA7-4071-B32B-507694E29F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6390BD-2E45-4228-AB71-5B40A9D0D7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6390BD-2E45-4228-AB71-5B40A9D0D7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6390BD-2E45-4228-AB71-5B40A9D0D7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6390BD-2E45-4228-AB71-5B40A9D0D7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7931B1-8BA7-4071-B32B-507694E29F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7931B1-8BA7-4071-B32B-507694E29F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7931B1-8BA7-4071-B32B-507694E29F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7931B1-8BA7-4071-B32B-507694E29F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
